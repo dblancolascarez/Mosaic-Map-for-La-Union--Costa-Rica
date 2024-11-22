@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "gasolineras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 254, "NUMERO": 140, "CODIGO": 2547, "NOMBRE_REC": "CORPOTACION INMOBILIARIA LA CABANA, S.A.", "OTRO_NOMBR": "ESTACION DE SERVICIO AYARCO", "DIRECCION": "100 M SUR, 150 M ESTE DE HIPERMAS, CURRIDABAT", "ASOCIACION": "NA" }, "geometry": { "type": "Point", "coordinates": [ -84.000335712249964, 9.925324461070282 ] } },
+{ "type": "Feature", "properties": { "fid": 255, "NUMERO": 141, "CODIGO": 0, "NOMBRE_REC": "GASOLINERIA Y LUBRICENTRO LA UNION S.A.", "OTRO_NOMBR": "ESTACION LA UNION", "DIRECCION": "300 M. OESTE MUNICIPALIDAD DE LA UNION", "ASOCIACION": "ACEC" }, "geometry": { "type": "Point", "coordinates": [ -83.986566498728109, 9.908428254913705 ] } },
+{ "type": "Feature", "properties": { "fid": 256, "NUMERO": 142, "CODIGO": 2481, "NOMBRE_REC": "SERVICENTRO TRES RIOS, S.A.", "OTRO_NOMBR": "NA", "DIRECCION": "400 M SUR PANADERIA MUSMANNI", "ASOCIACION": "NA" }, "geometry": { "type": "Point", "coordinates": [ -83.986069876734973, 9.906019441619078 ] } },
+{ "type": "Feature", "properties": { "fid": 257, "NUMERO": 143, "CODIGO": 0, "NOMBRE_REC": "TOTAL PETROLEO COSTA RICA, S.A.", "OTRO_NOMBR": "antes SERVICENTRO PETATLAN", "DIRECCION": "FRENTE CEMENTERIO TRES RIOS,LA UNION", "ASOCIACION": "NA" }, "geometry": { "type": "Point", "coordinates": [ -83.992520988484102, 9.909017593922661 ] } }
+]
+}

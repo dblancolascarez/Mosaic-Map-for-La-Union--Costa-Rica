@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "hospitales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 18, "NOMBRE": "HOSPITAL DR. ROBERTO CHACON PAUT TRES RIOS", "TELEFONO": "2279-9192 / 2279-5086 / 2229-5688", "PROVINCIA": "CARTAGO", "CANTON": "LA UNION", "DISTRITO": "TRES RIOS" }, "geometry": { "type": "Point", "coordinates": [ -83.984843023719449, 9.907003077487817 ] } }
+]
+}

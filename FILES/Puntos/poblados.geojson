@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "poblados",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1318, "NOMBRE": "ALTO CARMEN", "CATEGORIA": "P2", "HOJA": "ISTARU" }, "geometry": { "type": "Point", "coordinates": [ -83.977018643719433, 9.929433501528745 ] } },
+{ "type": "Feature", "properties": { "fid": 1326, "NOMBRE": "DULCE NOMBRE", "CATEGORIA": "P3", "HOJA": "ISTARU" }, "geometry": { "type": "Point", "coordinates": [ -83.981812837464901, 9.923335796631338 ] } },
+{ "type": "Feature", "properties": { "fid": 1339, "NOMBRE": "TRES RIOS", "CATEGORIA": "C_c", "HOJA": "ISTARU" }, "geometry": { "type": "Point", "coordinates": [ -83.986844570664644, 9.908422794095555 ] } },
+{ "type": "Feature", "properties": { "fid": 1340, "NOMBRE": "SAN RAFAEL", "CATEGORIA": "P3", "HOJA": "ISTARU" }, "geometry": { "type": "Point", "coordinates": [ -83.981372682432834, 9.909320938378931 ] } },
+{ "type": "Feature", "properties": { "fid": 1349, "NOMBRE": "FIERRO", "CATEGORIA": "P2", "HOJA": "ISTARU" }, "geometry": { "type": "Point", "coordinates": [ -83.956303238783477, 9.904771448317 ] } },
+{ "type": "Feature", "properties": { "fid": 1355, "NOMBRE": "SANTIAGO DEL MONTE", "CATEGORIA": "P2", "HOJA": "ISTARU" }, "geometry": { "type": "Point", "coordinates": [ -83.997573890906409, 9.893967877929846 ] } },
+{ "type": "Feature", "properties": { "fid": 1356, "NOMBRE": "SAN VICENTE", "CATEGORIA": "P2", "HOJA": "ISTARU" }, "geometry": { "type": "Point", "coordinates": [ -83.975457528681687, 9.899142629649536 ] } },
+{ "type": "Feature", "properties": { "fid": 1426, "NOMBRE": "YERBABUENA", "CATEGORIA": "P2", "HOJA": "ISTARU" }, "geometry": { "type": "Point", "coordinates": [ -83.979016081592079, 9.917218414229463 ] } },
+{ "type": "Feature", "properties": { "fid": 1429, "NOMBRE": "CARPINTERA", "CATEGORIA": "P2", "HOJA": "ISTARU" }, "geometry": { "type": "Point", "coordinates": [ -83.982746485459003, 9.903897543319138 ] } },
+{ "type": "Feature", "properties": { "fid": 4188, "NOMBRE": "CONCEPCION", "CATEGORIA": "P3", "HOJA": "ABRA" }, "geometry": { "type": "Point", "coordinates": [ -84.001942949114635, 9.926768233574954 ] } },
+{ "type": "Feature", "properties": { "fid": 4226, "NOMBRE": "SAN JUAN", "CATEGORIA": "P3", "HOJA": "ABRA" }, "geometry": { "type": "Point", "coordinates": [ -84.012604034331531, 9.91051130721965 ] } },
+{ "type": "Feature", "properties": { "fid": 4238, "NOMBRE": "SAN DIEGO", "CATEGORIA": "P2", "HOJA": "ABRA" }, "geometry": { "type": "Point", "coordinates": [ -84.002948770364156, 9.902942780158966 ] } },
+{ "type": "Feature", "properties": { "fid": 4251, "NOMBRE": "RIO AZUL", "CATEGORIA": "P2", "HOJA": "ABRA" }, "geometry": { "type": "Point", "coordinates": [ -84.036693999123784, 9.893946562872125 ] } },
+{ "type": "Feature", "properties": { "fid": 4253, "NOMBRE": "RINCON MESEN", "CATEGORIA": "P2", "HOJA": "ABRA" }, "geometry": { "type": "Point", "coordinates": [ -84.013881587986219, 9.892865636826437 ] } },
+{ "type": "Feature", "properties": { "fid": 4472, "NOMBRE": "QUEBRADAS", "CATEGORIA": "P2", "HOJA": "ABRA" }, "geometry": { "type": "Point", "coordinates": [ -84.023600219869962, 9.89096997688687 ] } }
+]
+}
